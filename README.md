@@ -1,8 +1,5 @@
 
 <h1>
-    <a href="https://Altzkmerz.github.io/">
-        <img align="center" alt="Logo Altzkmerz" width="40px" src="https://i.imgur.com/hCUAGvf.png">
-    </a>
     <span style="color: #a7755c;">Altzkmerz</span>
 </h1>
 
